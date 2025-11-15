@@ -1,3 +1,8 @@
+# TODO:
+- `SPACE_CADET_ENABLE` is what I need for the shift feature I want -- see [here](https://docs.qmk.fm/features/space_cadet)
+- Figure out how to do fun LED stuff
+
+
 # Oryx with custom QMK
 
 This repository allows combining the convenience of [Oryx’s](https://www.zsa.io/oryx) graphical layout editing with the power of [QMK](https://qmk.fm), allowing you to customize your Oryx layout with advanced QMK features like Achordion and Repeat Key, while automating firmware builds through GitHub Actions.
